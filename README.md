@@ -52,20 +52,7 @@ Robust error handling and validations ensure a smooth user experience, even in t
 - A modern web browser
 - Internet connection
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/VirendraT11/advanced-currency-converter.git
-   ```
-2. Open the project directory:
-   ```bash
-   cd advanced-currency-converter
-   ```
-3. Open `index.html` in your favorite web browser:
-   ```bash
-   open index.html
-   ```
 
 ## 📖 Usage
 
@@ -96,7 +83,7 @@ By creating this advanced currency converter application, I have demonstrated my
 
 ---
 
-Check out my other projects on [GitHub](https://github.com/VirendraT11) and connect with me for more innovative and impactful web development projects.
+Check out my other projects on [GitHub](https://github.com/LAXMIKANT565) and connect with me for more innovative and impactful web development projects.
 
 ---
 
